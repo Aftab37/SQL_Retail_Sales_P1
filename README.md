@@ -213,4 +213,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Acknowledgements
 
-Special thanks to @najirh
+Special thanks to  [najirh](https://github.com/najirh)
